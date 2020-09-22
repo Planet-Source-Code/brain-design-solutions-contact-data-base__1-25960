@@ -1,0 +1,15 @@
+Base de Dados Contactos 1.0.14
+Copyright 2001 OFPG - Marketing e Publicidade, Lda - Brain Design Solutions
+http://www.braindesignsolutions.com
+softwaredirector@braindesignsolutions.com
+Agosto 2001
+
+Este programa foi feito para facilitar a organização dos nossos contactos pessoais ou empresariais.
+
+Este programa foi feito para fins não comerciais. Tendo este programa esta característica e pertencendo legalmente ( Direitos de Autor Patrimoniais e/ou Morais ) à empresa que o realizou, não pode ser vendido.
+
+Porém concede-se que este programa possa ser disponibilizado e/ou duplicado sem autorização prévia do autor, mas sempre SEM FINS LUCRATIVOS, figurando sempre o Copyright da Empresa acima descrita, bem como este ficheiro ( Leia-me.txt).
+
+O não cumprimento do descrito acima implica que o autor poderá recorrer às instânciais legais e competentes Nacionais (Portugal) ou Internacionais de Direitos de Autor.
+
+IMPORTANTE: Não nos responsabilizamos de forma alguma pelo uso que este programa poderá implicar num enventual mau funcionamento do computador onde estiver a funcionar ou por eventuais perdas de informação, ficheiros, etc. Devido a este programa não ter fins lucrativos, não teremos quaisquer responsabilidades ao nível do suporte técnico.
